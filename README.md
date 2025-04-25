@@ -45,7 +45,7 @@ MongoDB rodando localmente ou na nuvem (Ex: MongoDB Atlas)
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Juliana162702/RepareAqui_frontend.git
 cd seu-repositorio
 ⚙️ Instale as dependências do backend:
 
